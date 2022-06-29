@@ -1,5 +1,5 @@
 ---
-# defaults file for ansible-role-oah-threatdragon
+# defaults file for ansible-role-bes-threatdragon
 
 threat_dragon_version: 1.6.1
 threat_dragon_app_name: threat-dragon-desktop
